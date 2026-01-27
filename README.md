@@ -64,7 +64,8 @@ Key visuals include:
 - Product-level revenue performance
 
 Dashboard screenshots are available in the `screenshots/` folder, and the `.pbix` file is included in the `powerbi/` folder.
-![Retail-sales-dashboard]screenshots/Retail_Revenue_Dashboard.jpg
+
+![Retail-sales-dashboard](screenshots/Retail_Revenue_Dashboard.jpg)
 
 ---
 
